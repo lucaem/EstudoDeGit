@@ -1,0 +1,1 @@
+Validações a cerca de comandos git
