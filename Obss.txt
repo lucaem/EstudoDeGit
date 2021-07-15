@@ -1,0 +1,11 @@
+readme é meio que uma instrução, tudo que voce precisa de informação que nao vai ficar dentro do cogdigo em sí 
+
+
+dentro da pasta que vc quer que vire repositorio com os aruquivos, vc aperta com o botao direito e vai em GIT BASh HERE
+
+poderia ter entrado por cd tal pasta cd tal pasta
+
+o primeiro o camando para se aprender é o git init
+
+
+
